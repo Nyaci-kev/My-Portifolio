@@ -89,5 +89,4 @@
           <img src="project1.jpg" alt="Project 1" />
           <h2>Project 1</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel justo velit. 
-            Sed euismod
+            
