@@ -83,10 +83,10 @@
           I'm constantly learning and staying up-to-date with the latest design trends and techniques.
         </p>
       </section>
-      <section id="projects">
+      <section id="My Work in a Simple Video">
         <h2>Projects</h2>
         <div class="card">
-          <img src="project1.jpg" alt="Project 1" />
+          <img src="Video Folio" alt="Project 1" />
           <h2>Project 1</h2>
           <p>
             
