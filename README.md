@@ -86,7 +86,7 @@
       <section id="My Work in a Simple Video">
         <h2>Projects</h2>
         <div class="card">
-          <img src="Video Folio" alt="Project 1" />
-          <h2>Project 1</h2>
+          <img src="Video Folio.mp4" alt="My Work in a Simple Video" />
+          <h2>My Work in a Simple Video</h2>
           <p>
             
